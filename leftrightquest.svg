@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 64" role="img" aria-labelledby="title desc">
+  <title id="title">LeftRightQuest</title>
+  <desc id="desc">Circular L and R mark followed by the LeftRightQuest name.</desc>
+  <defs>
+    <clipPath id="mark-circle"><circle cx="32" cy="32" r="22"/></clipPath>
+  </defs>
+  <rect width="270" height="64" rx="4" fill="#f4f0e8"/>
+  <g clip-path="url(#mark-circle)">
+    <rect x="10" y="10" width="22" height="44" fill="#0a1e27"/>
+    <rect x="32" y="10" width="22" height="44" fill="#d7f45d"/>
+  </g>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="#0a1e27" stroke-width="2"/>
+  <text x="23" y="36" fill="#f4f0e8" font-family="SFMono-Regular,Consolas,monospace" font-size="10" font-weight="800" text-anchor="middle">L</text>
+  <text x="42" y="36" fill="#0a1e27" font-family="SFMono-Regular,Consolas,monospace" font-size="10" font-weight="800" text-anchor="middle">R</text>
+  <text x="66" y="39" fill="#0a1e27" font-family="Arial Narrow,Avenir Next Condensed,Helvetica Neue,Arial,sans-serif" font-size="18" font-weight="900" letter-spacing="2">LEFTRIGHTQUEST</text>
+</svg>
